@@ -40,4 +40,4 @@ For production use 'only' add host='0.0.0.0' to the last line
 The app was tested on a Linux Ubuntu and Linux Mint
 
 ## Access Live Site Via
-insuranceapp.rogerkoranteng.com
+http://insuranceapp.rogerkoranteng.com
