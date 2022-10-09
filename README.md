@@ -35,6 +35,7 @@ In the case you rceieve an error OSError: [Errno 98] Address already in use, cha
 
 ## Production Use
 For production use 'only' add host='0.0.0.0' to the last line
+<img src="/images/Screenshot from 2022-10-09 04-19-17.png" width="700" length="900"/>
 
 ## Testing
 The app was tested on a Linux Ubuntu and Linux Mint
