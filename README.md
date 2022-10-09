@@ -2,18 +2,18 @@
 
 This app is built with Flask, using trained models 
 
-This project contains a folder and two files namely(requirements.txt and main.py). The folder cantains the template index.html
+This project contains a folder and two files namely(requirements.txt and app.py). The folder cantains the template index.html
 
 The index.html file serves as the template for the app and is rendered to the flask app through Jinja2
 
-The main.py conatains the actual code
+The app.py conatains the actual code
 
 The requirements.txt contains a list of all python libraries to be installed
 
 The model folder contains the jupyter notebook file which was saved from Sagemaker studio's after training
 
 # How to Install Locally
-Before running the main.py file its required of you to install all python libraries listed in the requirement.txt file. To install the python libraries, you first need to install pip, pip is a standard package manager for python
+Before running the app.py file its required of you to install all python libraries listed in the requirement.txt file. To install the python libraries, you first need to install pip, pip3 is a standard package manager for python
 
 To install pip on windows visit https://www.w3schools.com/python/python_pip.asp
 
